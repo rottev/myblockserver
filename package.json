@@ -1,0 +1,33 @@
+{
+  "name": "colordcoinsd",
+  "version": "0.0.1",
+  "author": "",
+  "description": "abstraction for color operations",
+  "contributors": [],
+  "main": "./server.js",
+  "keywords": [],
+  "dependencies": {
+    "express": "4.10.4",
+    "body-parser": ">=1.9.0",
+    "node-rest-client": ">=1.0.3",
+    "q": ">=1.0.1",
+    "lodash": ">=2.4.1",
+    "swagger-node-express": "~2.0",
+    "swagger-validation": "~1.2",
+    "bs58check": "^1.0.3",
+    "bitcoinjs-lib": "^1.4.2",
+    "bitcore": "^0.9.5",
+    "bitcore-p2p": "^0.9.1",
+    "redis": "^0.12.1"
+  },
+  "noAnalyze": true,
+  "engines": {
+    "node": ">=0.6"
+  },  
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "apidoc":{
+    "title":"ColordCoins api documentation",
+    "url": "http://localhost:8080"
+  }
+}

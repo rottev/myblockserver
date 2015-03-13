@@ -1,0 +1,15 @@
+checking: ./index.js
+checking: ./v1
+adding version: v1
+registering methods
+registering googleapi methods
+loading color
+loading: v1
+V1 Controllers registerd
+adding model: Asset
+adding model: AssetDefinition
+adding model: AssetHolder
+adding model: AssetHolders
+adding model: AssetMetadata
+adding model: CreatedAsset
+color routes added.

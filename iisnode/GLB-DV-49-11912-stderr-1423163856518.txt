@@ -1,0 +1,2 @@
+Thu, 05 Feb 2015 19:17:37 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:21:9
+Thu, 05 Feb 2015 19:17:37 GMT body-parser deprecated undefined extended: provide extended option at node_modules\body-parser\index.js:85:29

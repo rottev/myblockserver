@@ -1,0 +1,15 @@
+{
+  "title": "ColordCoins api documentation",
+  "url": "http://localhost:8080",
+  "name": "colordcoinsd",
+  "version": "0.0.1",
+  "description": "abstraction for color operations",
+  "sampleUrl": false,
+  "apidoc": "0.2.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2015-02-26T16:28:51.931Z",
+    "url": "http://apidocjs.com",
+    "version": "0.12.1"
+  }
+}
